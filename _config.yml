@@ -2,11 +2,11 @@
 title:
 email:
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "https://startboostrap.github.io" # the subpath of your site, e.g. /blog/
-url: "/startboostrap.github.io" # the base hostname & protocol for your site
+baseurl: "https://antfolio.github.io" # the subpath of your site, e.g. /blog/
+url: "/antfolio.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: officialtrento
+github_username: antoniotrento
 
 # Build settings
 markdown: kramdown
